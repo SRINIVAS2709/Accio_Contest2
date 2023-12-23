@@ -5,6 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*      Nav Bar Styling           */
 #nav_bar{
     background-color: #000000;
     color: #FFFFFF;
@@ -44,7 +45,7 @@
 
 }
 
-
+/*      Main Section Styling           */
 
 #main{
     background-image: url(images/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.avif);
@@ -78,7 +79,7 @@ h1{
 }
 
 
-
+/*    About US Styling           */
 
 #about_us{
     width: 100vw;
@@ -126,7 +127,7 @@ h1{
     width: 400px;
 }
 
-
+/*      Menu Styling           */
 
 #menu{
     width: 100vw;
@@ -171,7 +172,7 @@ h1{
     width: 200px;
 }
 
-
+/*      Carousel Styling           */
 
 #carousel{
     width: 100vw;
@@ -193,7 +194,7 @@ h1{
 }
 
 
-
+/*     Gallery Styling           */
 
 
 #gallary{
@@ -214,9 +215,6 @@ h1{
     margin-left: 42%;
     margin-top: 14px;
 }
-
-
-
 
 
 .grid-6-container{
@@ -263,6 +261,7 @@ h1{
   }
 }
 
+/*    Find US Styling           */
 
 #find_us{
     width: 100vw;
@@ -310,6 +309,7 @@ h1{
     font-size: 12px;
 }
 
+/*   Footer Styling           */
 .footer{
     width: 100vw;
     height: 150px;
